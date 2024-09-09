@@ -16,7 +16,7 @@
 2. [go to](https://astral.autonomys.xyz/gemini-3h/staking)
 3. copy address { wait this }
 
-# VPSSystem Requirements
+# VPS System Requirements
 - CPU  4 Core+
 - RAM  8GB+
 - SWAP  4GB
