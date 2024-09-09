@@ -1,5 +1,6 @@
 
-Autonomys Network  incetivized testnet
+
+## Autonomys Network  incetivized testnet
 
 ## step by step
 1. wallet: download subwallet (https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
