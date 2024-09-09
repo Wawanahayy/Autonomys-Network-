@@ -17,10 +17,10 @@
 3. copy address { wait this }
 
 # VPSSystem Requirements
-CPU  4 Core+
-RAM  8GB+
-SWAP  4GB
-Storage (node)  100GB (SSD)
+- CPU  4 Core+
+- RAM  8GB+
+- SWAP  4GB
+- Storage (node)  100GB (SSD)
 # 1. install
 ```bash
 sudo apt update
