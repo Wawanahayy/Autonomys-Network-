@@ -1,4 +1,5 @@
-fo me contact as: [TELEGRAM](https://t.me/AirdropJP_JawaPride)
+# JOIN: [TELEGRAM](https://t.me/AirdropJP_JawaPride)
+
 
 ## Autonomys Network  incetivized testnet
 
