@@ -1,10 +1,11 @@
+## Autonomys Network  incetivized testnet
+
 # JOIN
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
 
-## Autonomys Network  incetivized testnet
 
 ## step by step
 1. [wallet: download subwallet](https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
