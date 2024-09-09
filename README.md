@@ -8,7 +8,7 @@
 - - - - - - - - -
 <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250">
 
-## step by step here
+# STEP BY STEP HERE
 1. [wallet: download subwallet](https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
 - network: gemini 3H
 2. [go to](https://astral.autonomys.xyz/gemini-3h/staking)
