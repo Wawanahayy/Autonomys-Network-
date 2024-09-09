@@ -1,3 +1,4 @@
+
 Autonomys Network  incetivized testnet
 
 ## step by step
@@ -93,4 +94,17 @@ docker-compose up -d
 CHECK LOGS
 ```bash
 docker compose logs --tail=1000 -f
+```
+CHECK STATUS
+```bash
+docker-compose ps
+```
+RUN
+```bash
+docker-compose up -d
+```
+
+DELETED IF YOU NEED or if END
+```bash
+docker-compose down
 ```
