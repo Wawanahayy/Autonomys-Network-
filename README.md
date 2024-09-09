@@ -1,34 +1,34 @@
 Autonomys Network  incetivized testnet
 
-step by step
+## step by step
 1. wallet: download subwallet (https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
 network: gemini 3H
 2. go to: https://astral.autonomys.xyz/gemini-3h/staking
 3. copy address { wait this }
 
-VPS
-1. # install
+# VPS
+# 1. install
 ```bash
 sudo apt update
 sudo apt install docker.io docker-compose -y
 ```
 
-2. create new screen
+# 2. create new screen
 ```bash
 screen -Rd autonomys
 ```
 
-3. create folder 
+# 3. create folder 
 ```bash
 mkdir autonomys && cd autonomys
 ```
-4. go to file nano
+# 4. go to file nano
 ```bash
 nano docker-compose.yml
 ```
-5. fill this code to nano
-❗️ change to your address {st- - -} 
-➡️ reward-address
+# 5. fill this code to nano
+# ❗️ change to your address {st- - -} 
+# ➡️ reward-address
 ```bash
 services:
   node:
@@ -77,4 +77,20 @@ services:
 volumes:
   node-data:
   farmer-data:
+```
+
+# to exit use Ctrl + X, Y, and Enter.
+
+# 6. run your script
+```bash
+docker-compose up -d
+```
+
+# DONE ENJOY
+
+# SERVICE 
+
+CHECK LOGS
+```bash
+docker compose logs --tail=1000 -f
 ```
