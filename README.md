@@ -6,10 +6,7 @@
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
 - - - - - - - - -
-<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250"> <img src="(https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif)" alt="-" width="250" height="250">
-
-
-
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250"> <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250">
 
 ## step by step here
 1. [wallet: download subwallet](https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
