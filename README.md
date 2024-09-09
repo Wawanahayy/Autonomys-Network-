@@ -1,6 +1,6 @@
 # Autonomys Network  incetivized testnet
 
-# JOIN MY CHANNEL
+# <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="250" height="250">
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
