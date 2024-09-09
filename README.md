@@ -1,5 +1,8 @@
-# JOIN: [TELEGRAM](https://t.me/AirdropJP_JawaPride)
-
+# JOIN: 
+[TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
+[WEBSITE](https://linktr.ee/Jawa_Pride_ID)
+[DISCUSS](https://t.me/AirdropJPdiskusi)
+[for me](https://t.me/timplexzz)
 
 ## Autonomys Network  incetivized testnet
 
