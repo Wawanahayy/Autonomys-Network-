@@ -6,7 +6,8 @@
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
 -
-![-](https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg)
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="100" height="100">
+()
 
 
 ## step by step here
