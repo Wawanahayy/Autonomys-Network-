@@ -4,7 +4,7 @@
 
 ## step by step
 1. [wallet: download subwallet](https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
-network: gemini 3H
+- network: gemini 3H
 2. [go to](https://astral.autonomys.xyz/gemini-3h/staking)
 3. copy address { wait this }
 
