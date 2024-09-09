@@ -1,13 +1,13 @@
 ## Autonomys Network  incetivized testnet
 
-# JOIN
+# JOIN my channel
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
 
 
-## step by step
+## step by step here
 1. [wallet: download subwallet](https://chromewebstore.google.com/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn)
 - network: gemini 3H
 2. [go to](https://astral.autonomys.xyz/gemini-3h/staking)
