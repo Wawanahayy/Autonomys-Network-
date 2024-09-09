@@ -1,7 +1,7 @@
 ## Autonomys Network  incetivized testnet
 
-# JOIN my channel
-                                                              - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
+# JOIN my chnnel
+- [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
