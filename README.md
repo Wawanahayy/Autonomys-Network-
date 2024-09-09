@@ -1,10 +1,11 @@
 ## Autonomys Network  incetivized testnet
 
-# JOIN my chnnel
+# JOIN my channel
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
 - [DISCUSS](https://t.me/AirdropJPdiskusi)
 - [for me](https://t.me/timplexzz)
+https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg
 
 
 ## step by step here
