@@ -1,5 +1,3 @@
-# Autonomys-Network
-
 Autonomys Network  incetivized testnet
 
 step by step
@@ -10,23 +8,28 @@ network: gemini 3H
 
 VPS
 1. # install
+```bash
 sudo apt update
 sudo apt install docker.io docker-compose -y
+```
 
 2. create new screen
+```bash
 screen -Rd autonomys
+```
 
 3. create folder 
-
+```bash
 mkdir autonomys && cd autonomys
-
+```
 4. go to file nano
+```bash
 nano docker-compose.yml
-
+```
 5. fill this code to nano
 ❗️ change to your address {st- - -} 
 ➡️ reward-address
-
+```bash
 services:
   node:
     image: ghcr.io/autonomys/node:gemini-3h-2024-sep-03
@@ -74,3 +77,4 @@ services:
 volumes:
   node-data:
   farmer-data:
+```
