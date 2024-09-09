@@ -16,7 +16,11 @@
 2. [go to](https://astral.autonomys.xyz/gemini-3h/staking)
 3. copy address { wait this }
 
-# VPS
+# VPSSystem Requirements
+CPU  4 Core+
+RAM  8GB+
+SWAP  4GB
+Storage (node)  100GB (SSD)
 # 1. install
 ```bash
 sudo apt update
