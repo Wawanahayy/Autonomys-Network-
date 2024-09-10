@@ -35,10 +35,7 @@ chmod +x autonomys-auto-install.sh
 ```bash
 ./autonomys-auto-install.sh
 ```
-# 4. go to file nano
-```bash
 
-```
 
 
 # DONE ENJOY ✅
@@ -47,11 +44,11 @@ chmod +x autonomys-auto-install.sh
 
 CHECK LOGS
 ```bash
-docker compose logs --tail=1000 -f
+journalctl -u subspace-node -f
 ```
-CHECK STATUS
+CHECK service
 ```bash
-docker-compose ps
+journalctl -u subspace-farmer -f
 ```
 RUN
 ```bash
