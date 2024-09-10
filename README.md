@@ -50,9 +50,16 @@ CHECK service
 ```bash
 journalctl -u subspace-farmer -f
 ```
-RUN
+
+DELETED
 ```bash
-docker-compose up -d
+rm autonomys-auto-install.sh
+```
+```bash
+rm /path/to/autonomys-auto-install.sh
+```
+```bash
+sudo rm autonomys-auto-install.sh
 ```
 
 DELETED IF YOU NEED or if END
