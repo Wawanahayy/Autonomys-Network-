@@ -26,13 +26,14 @@
 wget https://raw.githubusercontent.com/Wawanahayy/Autonomys-Network-/main/autonomys-auto-install.sh
 ```
 
-# 2. create new screen
+# 2. izin file
 ```bash
+chmod +x autonomys-auto-install.sh
 ```
 
-# 3. create folder 
+# 3. run script 
 ```bash
-
+./autonomys-auto-install.sh
 ```
 # 4. go to file nano
 ```bash
