@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\n\n############ Auto Install Autonomys Network Node and Farmer ############\n"
+echo -e "\n\n############ Auto Install Autonomys Network Farmer ############\n"
 
 echo "Updating package list and upgrading installed packages..."
 sudo apt update && sudo apt upgrade -y
